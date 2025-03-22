@@ -1,5 +1,4 @@
 # nexford-business-analytics-final-project
-# Nexford Business Analytics Final Project
 
 This repository contains the analysis and code for the **Final Project** of the **Business Analytics course** as part of the **MS Data Analytics program** at **Nexford University**.
 
